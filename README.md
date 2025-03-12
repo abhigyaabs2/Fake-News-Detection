@@ -12,29 +12,29 @@ Tech Stack
 🔹 Natural Language Processing (NLP)
 🔹 Jupyter Notebook 
 
-Installation & Setup
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/Fake-News-Detection.git
-Navigate to the folder:
-bash
-Copy
-Edit
-cd Fake-News-Detection
-Install required dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Flask app:
-bash
-Copy
-Edit
-python app.py
-Open in browser:
-cpp
-Copy
-Edit
-http://127.0.0.1:5000/
+1. Installation & Setup
+*Clone the repository:
+*bash
+*Copy
+*Edit
+*git clone [https://github.com/your-username/Fake-News-Detection.git](https://github.com/abhigyaabs2/Fake-News-Detection.git)
+2. Navigate to the folder:
+*bash
+*Copy
+*Edit
+*cd Fake-News-Detection
+3.Install required dependencies:
+*bash
+*Copy
+*Edit
+*pip install -r requirements.txt
+*Run the Flask app:
+*bash
+*Copy
+*Edit
+*python app.py
+4. Open in browser:
+*cpp
+*Copy
+*Edit
+*http://127.0.0.1:5000/
